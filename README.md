@@ -5,7 +5,7 @@
 
 
 ## Getting started
-TBC
+Grab the [latest release ZIP](https://github.com/willowgreengroup/DouglasMLevinson/releases) and unzip it in `$JENKINS_HOME/persona` so that the folder is located at `$JENKINS_HOME/persona/DouglasMLevinson`.
 
 
 ## Code of Conduct

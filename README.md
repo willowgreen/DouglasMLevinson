@@ -13,7 +13,7 @@ This project has adopted Willowgreen's Open Source Code of Conduct, which can be
 
 
 ## Licensing
-This repository is licensed under the Apache License, Version 2.0. See [LICENSE](https://github.com/willowgreengroup/devops-scripts/blob/master/LICENSE) for the full license text.
+This repository is licensed under the Apache License, Version 2.0. See [LICENSE](https://github.com/willowgreengroup/DouglasMLevinson/blob/master/LICENSE) for the full license text.
 
 
 ---
